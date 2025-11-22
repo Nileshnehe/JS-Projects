@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #fff;
+    font-family: monospace;
+}
+
+html,
+body{
+    height: 100vh;
+    
+    background-color: rgb(23, 22, 22);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%)
+}
+h1{
+    font-size: 45px;
+    font-weight: 600;
+    white-space: nowrap;
+}
+
+button{
+
+    
+    background-color: rgb(238, 146, 34);
+    font-size: 30px;
+    font-weight: 700;
+    border-radius: 7px;
+    margin-top: 20px;
+    
+
+}

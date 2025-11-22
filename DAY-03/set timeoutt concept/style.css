@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+html,
+body{
+    background-color: #333;
+    color: #fff;
+    
+}
+
+main{
+    padding: 40px;
+    margin-left: 30%;
+}
+
+h1{
+    font-size: 60px;
+}
+button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: royalblue;
+    border-radius: 8px;
+    font-size: 30px;
+    margin-top: 40px;
+}

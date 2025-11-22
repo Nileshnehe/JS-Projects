@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: fantasy;
+}
+
+html,
+body{
+    background-color:rgb(22, 20, 20);
+    color: #fff;
+    margin-left: 20%;
+    align-items: center;
+    justify-content: center;
+}
+
+h2{
+    font-size: 300px;
+    margin-left: 9%;
+}
+
+button{
+    background-color:red;
+    border-radius: 7px;
+    font-weight: 700;
+    font-size: 90px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
